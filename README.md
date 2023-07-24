@@ -1,8 +1,8 @@
 -  Hi👋 My name GopalaReddy Seelam 
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ..HTML,CSS,JAVASCRIPT,SQL,JAVA
+- 🌱 I’m currently learning ...JEE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.instagram.com/
 
 - https://www.python.org/static/img/python-logo.png
 - https://www.python.org/
