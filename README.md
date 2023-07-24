@@ -1,4 +1,4 @@
--  Hi👋 My name GopalaReddy Seelam 
+-  Hi👋 is My name GopalaReddy Seelam 
 - 👀 I’m interested in ..HTML,CSS,JAVASCRIPT,SQL,JAVA
 - 🌱 I’m currently learning ...JEE
 - 💞️ I’m looking to collaborate on ...
